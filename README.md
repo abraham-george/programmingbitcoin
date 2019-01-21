@@ -1,1 +1,1 @@
-# programmingbitcoin
+A repo which for code as part of the course on Programming Bitcoin - taught by Jimmy Song
